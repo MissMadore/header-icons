@@ -40,11 +40,14 @@ nav li {
   font-size: 1.125rem;
   padding: .4rem 0;
   border: 1px solid #a63f38;
-  width: 33.33333%
-
+  width: 33.33333%;
 }
 
 nav a {
   color: #fff;
   text-decoration: none;
 }
+
+/*li:a:hover {
+  background-color: #fff;
+}*/
