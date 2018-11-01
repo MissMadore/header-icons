@@ -1,7 +1,31 @@
 html {
   box-sizing: border-box;
+  font-family: 'Merriweather', serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+header {
+  background-color: #d05c2e;
+  color: #fff;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+nav {
+  list-style-type: none;
+}
+
+nav li {
+  font-size: 1.125rem;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
 }
